@@ -1,4 +1,4 @@
-# MGU Result Analyser
+# MG University Result Analyser - Codeigniter Project
 This is a project that developed for educational purposes. Scrapes student results from MGU site and provides result analysis
 
 
