@@ -1,0 +1,1 @@
+We are not responsible for any error that may have crept in the results published on this site. The results published on this site are got from MG University Results Portal for analysis of results. You can make sure your result on <b>www.mgu.ac.in</b> These may cannot be treated as original marks.
